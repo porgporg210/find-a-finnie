@@ -1,7 +1,7 @@
 // A list of high-quality placeholder images from Unsplash
 const images = [
     "dog.jpeg",
-    <img src="finnie.jpeg" alt="Finnie">
+    "finnie.jpeg"
     "finn.jpeg",
     "sleepy dog.jpeg",
     "dogg.jpeg",
