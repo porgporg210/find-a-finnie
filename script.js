@@ -40,4 +40,4 @@ const dateNum = parseInt(dateString);
 const imageIndex = dateNum % images.length;
 
 // 5. Update the website image with our chosen picture
-document.getElementById('daily-image').src = images[imageIndex];
+document.getElementById('daily-image').src = 'finn.jpeg';
